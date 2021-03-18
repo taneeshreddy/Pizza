@@ -1,0 +1,1 @@
+The recipe is basically a recipe for pizza. Basically create a dough, sprinkle tomato sauce or pesto, and then top with cheese. Finally top with whatever topping you would like, but I personally like pepperoni and mushrooms.
